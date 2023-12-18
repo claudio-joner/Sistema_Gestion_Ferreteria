@@ -52,6 +52,12 @@
     <Compile Include="frmIngreso.Designer.cs">
       <DependentUpon>frmIngreso.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmPrincipal2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPrincipal2.Designer.cs">
+      <DependentUpon>frmPrincipal2.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -66,6 +72,9 @@
     <EmbeddedResource Include="frmPrincipal.resx">
       <DependentUpon>frmPrincipal.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="frmPrincipal2.resx">
+      <DependentUpon>frmPrincipal2.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -74,6 +83,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

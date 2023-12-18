@@ -10,17 +10,15 @@ using System.Windows.Forms;
 
 namespace Sistema_Gestion_Ferreteria
 {
-    public partial class frmPrincipal : Form
+    public partial class frmPrincipal2 : Form
     {
-        public frmPrincipal()
+        public frmPrincipal2()
         {
             InitializeComponent();
         }
 
-        private void altaToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            frmIngreso frmIngreso = new frmIngreso();
-            frmIngreso.ShowDialog();
-        }
+
+        
+        
     }
 }

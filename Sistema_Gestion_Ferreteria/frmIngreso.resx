@@ -226,7 +226,7 @@
     <value>176, 28</value>
   </data>
   <data name="txtPrecio.TabIndex" type="System.Int32, mscorlib">
-    <value>4</value>
+    <value>1</value>
   </data>
   <data name="&gt;&gt;txtPrecio.Name" xml:space="preserve">
     <value>txtPrecio</value>
@@ -250,7 +250,7 @@
     <value>176, 28</value>
   </data>
   <data name="txtNombre.TabIndex" type="System.Int32, mscorlib">
-    <value>5</value>
+    <value>0</value>
   </data>
   <data name="&gt;&gt;txtNombre.Name" xml:space="preserve">
     <value>txtNombre</value>
@@ -277,7 +277,7 @@
     <value>117, 43</value>
   </data>
   <data name="btnAceptar.TabIndex" type="System.Int32, mscorlib">
-    <value>7</value>
+    <value>2</value>
   </data>
   <data name="btnAceptar.Text" xml:space="preserve">
     <value>&amp;Aceptar</value>
@@ -307,7 +307,7 @@
     <value>123, 43</value>
   </data>
   <data name="btnCancelar.TabIndex" type="System.Int32, mscorlib">
-    <value>8</value>
+    <value>3</value>
   </data>
   <data name="btnCancelar.Text" xml:space="preserve">
     <value>&amp;Cancelar</value>
@@ -337,7 +337,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>Ingreso</value>
+    <value>.</value>
   </data>
   <data name="&gt;&gt;$this.Name" xml:space="preserve">
     <value>frmIngreso</value>

@@ -9,3 +9,15 @@ I:\Proyectos\C#\Presupuesto\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion
 I:\Proyectos\C#\Presupuesto\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.exe
 I:\Proyectos\C#\Presupuesto\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.pdb
 I:\Proyectos\C#\Presupuesto\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.frmIngreso.resources
+C:\Users\claud\OneDrive\Escritorio\C#\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\bin\Debug\Sistema_Gestion_Ferreteria.exe.config
+C:\Users\claud\OneDrive\Escritorio\C#\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\bin\Debug\Sistema_Gestion_Ferreteria.exe
+C:\Users\claud\OneDrive\Escritorio\C#\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\bin\Debug\Sistema_Gestion_Ferreteria.pdb
+C:\Users\claud\OneDrive\Escritorio\C#\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.csproj.AssemblyReference.cache
+C:\Users\claud\OneDrive\Escritorio\C#\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.frmIngreso.resources
+C:\Users\claud\OneDrive\Escritorio\C#\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.frmPrincipal2.resources
+C:\Users\claud\OneDrive\Escritorio\C#\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.Properties.Resources.resources
+C:\Users\claud\OneDrive\Escritorio\C#\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.csproj.GenerateResource.cache
+C:\Users\claud\OneDrive\Escritorio\C#\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.csproj.CoreCompileInputs.cache
+C:\Users\claud\OneDrive\Escritorio\C#\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.exe
+C:\Users\claud\OneDrive\Escritorio\C#\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.pdb
+C:\Users\claud\OneDrive\Escritorio\C#\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.frmPrincipal.resources
