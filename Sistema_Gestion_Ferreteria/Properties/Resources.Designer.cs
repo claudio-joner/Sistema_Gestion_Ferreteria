@@ -68,5 +68,14 @@ namespace Sistema_Gestion_Ferreteria.Properties {
                 return ResourceManager.GetString("cadenaConexion", resourceCulture);
             }
         }
+        
+        /// <summary>
+        ///   Busca una cadena traducida similar a Data Source=DESKTOP-6KIGGOG\MSSQLSERVER01;Initial Catalog=db_ferreteria;Integrated Security=True.
+        /// </summary>
+        internal static string cadenaConexionPc {
+            get {
+                return ResourceManager.GetString("cadenaConexionPc", resourceCulture);
+            }
+        }
     }
 }

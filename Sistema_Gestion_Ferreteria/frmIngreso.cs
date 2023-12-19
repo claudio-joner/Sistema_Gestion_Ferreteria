@@ -20,17 +20,18 @@ namespace Sistema_Gestion_Ferreteria
             InitializeComponent();
             conexion = new SqlConnection();
             comando = new SqlCommand();
-            conexion.ConnectionString = Properties.Resources.cadenaConexion;
+            //conexion.ConnectionString = Properties.Resources.cadenaConexion;
+            conexion.ConnectionString = Properties.Resources.cadenaConexionPc;
         }
 
         private void frmIngreso_Load(object sender, EventArgs e)
         {
-            txtNombre.Focus();
             Limpiar();
         }
 
         private void Limpiar()
         {
+            txtNombre.Focus();
             txtNombre.Text = string.Empty;
             txtPrecio.Text = string.Empty;
         }
@@ -48,12 +49,31 @@ namespace Sistema_Gestion_Ferreteria
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
-            if (Validar())
+            string nombre = txtNombre.Text;
+            decimal precio = Decimal.Parse(txtPrecio.Text);
+            try
             {
-                conexion.Open();
-                comando.Connection = conexion;
-                comando.CommandText = "";
-                conexion.Close();
+                if (Validar())
+                {
+                    conexion.Open();
+                    comando.Connection = conexion;
+                    comando.CommandText = "pa_insertar_productos";
+                    //SqlCommand comando = new SqlCommand("nombreSP", conexion);
+                    comando.CommandType = CommandType.StoredProcedure;
+                    comando.Parameters.Clear();
+                    comando.Parameters.AddWithValue("@nombre", nombre);
+                    comando.Parameters.AddWithValue("@precio", precio);
+                    comando.Parameters.AddWithValue("@activo", 1);
+                    comando.ExecuteNonQuery();
+                    conexion.Close();
+                    MessageBox.Show("Se agrego producto exitosamente");
+                    Limpiar();
+                }
+            }
+            catch (Exception ex)
+            {
+
+                throw new Exception("Error al ejecutar.",ex);
             }
         }
 
@@ -82,7 +102,7 @@ namespace Sistema_Gestion_Ferreteria
             }
             foreach (char c in txtPrecio.Text)
             {
-                if (!char.IsDigit(c) && c != '.'  )
+                if (!char.IsDigit(c) && c != ','  )
                 {
                     MessageBox.Show("Solo se puede ingresar numeros o punto", "Atencion");
                     resultado = false;

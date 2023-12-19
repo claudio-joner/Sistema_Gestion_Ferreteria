@@ -16,8 +16,8 @@ namespace Sistema_Gestion_Ferreteria
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.Run(new frmPrincipal());
-            Application.Run(new frmIngreso());
+            Application.Run(new frmPrincipal());
+            //Application.Run(new frmIngreso());
         }
     }
 }

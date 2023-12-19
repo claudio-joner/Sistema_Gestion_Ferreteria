@@ -21,3 +21,15 @@ C:\Users\claud\OneDrive\Escritorio\C#\Sistema_Gestion_Ferreteria\Sistema_Gestion
 C:\Users\claud\OneDrive\Escritorio\C#\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.exe
 C:\Users\claud\OneDrive\Escritorio\C#\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.pdb
 C:\Users\claud\OneDrive\Escritorio\C#\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.frmPrincipal.resources
+I:\Proyectos\C#\Ferreteria Proyecto\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\bin\Debug\Sistema_Gestion_Ferreteria.exe.config
+I:\Proyectos\C#\Ferreteria Proyecto\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\bin\Debug\Sistema_Gestion_Ferreteria.exe
+I:\Proyectos\C#\Ferreteria Proyecto\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\bin\Debug\Sistema_Gestion_Ferreteria.pdb
+I:\Proyectos\C#\Ferreteria Proyecto\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.csproj.AssemblyReference.cache
+I:\Proyectos\C#\Ferreteria Proyecto\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.frmIngreso.resources
+I:\Proyectos\C#\Ferreteria Proyecto\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.frmPrincipal.resources
+I:\Proyectos\C#\Ferreteria Proyecto\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.frmPrincipal2.resources
+I:\Proyectos\C#\Ferreteria Proyecto\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.Properties.Resources.resources
+I:\Proyectos\C#\Ferreteria Proyecto\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.csproj.GenerateResource.cache
+I:\Proyectos\C#\Ferreteria Proyecto\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.csproj.CoreCompileInputs.cache
+I:\Proyectos\C#\Ferreteria Proyecto\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.exe
+I:\Proyectos\C#\Ferreteria Proyecto\Sistema_Gestion_Ferreteria\Sistema_Gestion_Ferreteria\obj\Debug\Sistema_Gestion_Ferreteria.pdb

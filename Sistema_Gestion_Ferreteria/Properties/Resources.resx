@@ -120,4 +120,7 @@
   <data name="cadenaConexion" xml:space="preserve">
     <value>Data Source=DESKTOP-92OOIR1\SQLEXPRESS;Initial Catalog=db_ferreteria;Integrated Security=True;Encrypt=False</value>
   </data>
+  <data name="cadenaConexionPc" xml:space="preserve">
+    <value>Data Source=DESKTOP-6KIGGOG\MSSQLSERVER01;Initial Catalog=db_ferreteria;Integrated Security=True</value>
+  </data>
 </root>
