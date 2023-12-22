@@ -46,33 +46,42 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="frmIngreso.cs">
+    <Compile Include="Formularios\Presupuesto\frmAltaPresupuesto.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmIngreso.Designer.cs">
+    <Compile Include="Formularios\Presupuesto\frmAltaPresupuesto.Designer.cs">
+      <DependentUpon>frmAltaPresupuesto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\Productos\frmIngreso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\Productos\frmIngreso.Designer.cs">
       <DependentUpon>frmIngreso.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmPrincipal2.cs">
+    <Compile Include="Formularios\frmPrincipal2.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmPrincipal2.Designer.cs">
+    <Compile Include="Formularios\frmPrincipal2.Designer.cs">
       <DependentUpon>frmPrincipal2.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmPrincipal.cs">
+    <Compile Include="Formularios\frmPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmPrincipal.Designer.cs">
+    <Compile Include="Formularios\frmPrincipal.Designer.cs">
       <DependentUpon>frmPrincipal.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="frmIngreso.resx">
+    <EmbeddedResource Include="Formularios\Presupuesto\frmAltaPresupuesto.resx">
+      <DependentUpon>frmAltaPresupuesto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\Productos\frmIngreso.resx">
       <DependentUpon>frmIngreso.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmPrincipal.resx">
+    <EmbeddedResource Include="Formularios\frmPrincipal.resx">
       <DependentUpon>frmPrincipal.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="frmPrincipal2.resx">
+    <EmbeddedResource Include="Formularios\frmPrincipal2.resx">
       <DependentUpon>frmPrincipal2.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
